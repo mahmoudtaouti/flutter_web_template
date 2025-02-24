@@ -1,16 +1,11 @@
-# web_template
+# Web App Template
 
-A new Flutter Web project.
+A template for building web applications using Flutter.
+**
+## Features
 
-## Getting Started
+- **Router and URL Management:** Learn how to create routers and manage the URLs of the web application.
+- **Responsive Layout:** Understand how to make a layout responsive to different screen sizes.
+- **Basic Web Animations:** Explore simple and basic web animations to enhance user experience.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to customize any section further if you need to add more details or specific instructions. Happy coding! 🚀
