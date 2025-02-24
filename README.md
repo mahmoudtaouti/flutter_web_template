@@ -12,4 +12,6 @@ A template for building web applications using Flutter.
 
 Check out the live preview of the web application [here](https://web-template-6005c.web.app/).
 
+<img alt="Preview" height="512px" src="https://github.com/mahmoudtaouti/flutter_web_template/blob/master/preview.web.app.jpeg?raw=true"/>
+
 Feel free to customize any section further if you need to add more details or specific instructions. Happy coding! 🚀
